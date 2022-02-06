@@ -1,0 +1,2 @@
+# spotifyclonebasic
+Basic Interface Spotify
